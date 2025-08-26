@@ -15,9 +15,16 @@ The game uses `turtle` for visuals and `time` for controlling the snake's speed.
 
 ## ⚙️ Requirements
 - Python 3.13  
-- No extra libraries needed (only built-in `turtle` and `time`).  
+- No extra libraries needed (only built-in `turtle` and `time`).
 
 ---
+## 📸 Screenshots
+
+### Game Start
+![Game Start](.png)
+
+### Snake Eating Food
+![Snake Eating Food](2.png)
 
 ## ▶️ Run the Game
 Clone this repository and run:
