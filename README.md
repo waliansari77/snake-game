@@ -21,10 +21,8 @@ The game uses `turtle` for visuals and `time` for controlling the snake's speed.
 ## 📸 Screenshots
 
 ### Game Start
-![Game Start](.png)
+![Game Start](1.png)
 
-### Snake Eating Food
-![Snake Eating Food](2.png)
 
 ## ▶️ Run the Game
 Clone this repository and run:
